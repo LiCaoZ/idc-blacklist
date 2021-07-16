@@ -1,0 +1,16 @@
+{
+  "name": "idc-blacklist",
+  "version": "0.1.0",
+  "description": "IDC 黑名单",
+  "main": "index.js",
+  "repository": "https://github.com/SHIERTX/idc-blacklist",
+  "author": "SHIERTX",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.22"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
